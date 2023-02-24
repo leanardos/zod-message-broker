@@ -7,7 +7,8 @@
       "build": "tsup src/index.ts --format cjs,esm --dts",
       "lint": "tsc",
       "test-watch": "vitest",
-      "test": "vitest run"
+      "test": "vitest run",
+      "ci": "pnpm run lint && pnpm run test && pnpm run build"
   },
   "author": "Anar Sadigli",
   "license": "ISC",
