@@ -2,6 +2,7 @@
   "name": "@leanerdos/zod-message-broker",
   "version": "0.0.2",
   "description": "Message broker for zod library",
+  "private": "false",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
   "types": "./dist/index.d.ts",
