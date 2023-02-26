@@ -1,5 +1,11 @@
 # @leanerdos/szod-message-broker
 
+## 0.0.4
+
+### Patch Changes
+
+- npm ignore added
+
 ## 0.0.3
 
 ### Patch Changes
