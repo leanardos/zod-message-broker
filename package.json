@@ -1,6 +1,6 @@
 {
   "name": "@leanerdos/szod-message-broker",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Message broker for zod library",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
